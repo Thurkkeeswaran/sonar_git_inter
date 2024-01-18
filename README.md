@@ -1,0 +1,1 @@
+# sonar_git_inter
